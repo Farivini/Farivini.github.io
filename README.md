@@ -2,4 +2,4 @@
 
 
 
-## Treinando CSS e HTML compagina estatica .
+## Treinando CSS e HTML com pagina estatica .
